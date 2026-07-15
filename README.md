@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Tokyo Olympics Data Engineering Project using Azure & Databricks
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -248,5 +248,3 @@ Ishan Makkar
 
 If you found this project helpful, please consider giving it a star on GitHub.
 =======
-# Olympic-data-engineering
->>>>>>> e3bb1e8b4aee0896fbc828cee226863b49e70569
