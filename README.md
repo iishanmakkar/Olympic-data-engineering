@@ -241,10 +241,9 @@ Through this project, I learned:
 
 Ishan Makkar
 
-- LinkedIn: https://www.linkedin.com/in/your-linkedin
 - GitHub: https://github.com/iishanmakkar
 
 ## Star the Project
 
-If you found this project helpful, please consider giving it a star on GitHub.
+If you found this project helpful, please consider giving it a star.
 =======
